@@ -1,0 +1,144 @@
+дек. 14, 2024 3:48:52 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Информация логирования: 
+дек. 14, 2024 3:48:52 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Вызванный метод: getAllUsers
+дек. 14, 2024 3:48:52 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Класс: class ru.gb.hw8.service.UserServiceImpl
+дек. 14, 2024 3:48:52 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Аргументы: []
+дек. 14, 2024 3:48:52 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Метод отработал и вернул значение: []
+дек. 14, 2024 3:48:52 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Конец блока логирования.
+дек. 14, 2024 3:48:57 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Информация логирования: 
+дек. 14, 2024 3:48:57 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Вызванный метод: createUser
+дек. 14, 2024 3:48:57 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Класс: class ru.gb.hw8.service.UserServiceImpl
+дек. 14, 2024 3:48:57 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Аргументы: [User(id=1, name=Jack, age=19, email=jack@mail.com)]
+дек. 14, 2024 3:48:57 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Метод отработал и вернул значение: User(id=1, name=Jack, age=19, email=jack@mail.com)
+дек. 14, 2024 3:48:57 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Конец блока логирования.
+дек. 14, 2024 3:49:14 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Информация логирования: 
+дек. 14, 2024 3:49:14 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Вызванный метод: createUser
+дек. 14, 2024 3:49:14 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Класс: class ru.gb.hw8.service.UserServiceImpl
+дек. 14, 2024 3:49:14 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Аргументы: [User(id=2, name=Irina, age=24, email=irina@mail.com)]
+дек. 14, 2024 3:49:14 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Метод отработал и вернул значение: User(id=2, name=Irina, age=24, email=irina@mail.com)
+дек. 14, 2024 3:49:14 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Конец блока логирования.
+дек. 14, 2024 3:49:35 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Информация логирования: 
+дек. 14, 2024 3:49:35 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Вызванный метод: createUser
+дек. 14, 2024 3:49:35 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Класс: class ru.gb.hw8.service.UserServiceImpl
+дек. 14, 2024 3:49:35 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Аргументы: [User(id=3, name=Egor, age=22, email=egir@mail.com)]
+дек. 14, 2024 3:49:35 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Метод отработал и вернул значение: User(id=3, name=Egor, age=22, email=egir@mail.com)
+дек. 14, 2024 3:49:35 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Конец блока логирования.
+дек. 14, 2024 3:49:45 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Информация логирования: 
+дек. 14, 2024 3:49:45 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Вызванный метод: getAllUsers
+дек. 14, 2024 3:49:45 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Класс: class ru.gb.hw8.service.UserServiceImpl
+дек. 14, 2024 3:49:45 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Аргументы: []
+дек. 14, 2024 3:49:45 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Метод отработал и вернул значение: [User(id=1, name=Jack, age=19, email=jack@mail.com), User(id=2, name=Irina, age=24, email=irina@mail.com), User(id=3, name=Egor, age=22, email=egir@mail.com)]
+дек. 14, 2024 3:49:45 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Конец блока логирования.
+дек. 14, 2024 3:49:53 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Информация логирования: 
+дек. 14, 2024 3:49:53 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Вызванный метод: getUserById
+дек. 14, 2024 3:49:53 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Класс: class ru.gb.hw8.service.UserServiceImpl
+дек. 14, 2024 3:49:53 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Аргументы: [2]
+дек. 14, 2024 3:49:53 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Метод отработал и вернул значение: User(id=2, name=Irina, age=24, email=irina@mail.com)
+дек. 14, 2024 3:49:53 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Конец блока логирования.
+дек. 14, 2024 3:50:48 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Информация логирования: 
+дек. 14, 2024 3:50:48 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Вызванный метод: getUserById
+дек. 14, 2024 3:50:48 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Класс: class ru.gb.hw8.service.UserServiceImpl
+дек. 14, 2024 3:50:48 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Аргументы: [3]
+дек. 14, 2024 3:50:48 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Метод отработал и вернул значение: User(id=3, name=Egor, age=22, email=egir@mail.com)
+дек. 14, 2024 3:50:48 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Конец блока логирования.
+дек. 14, 2024 3:51:57 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Информация логирования: 
+дек. 14, 2024 3:51:57 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Вызванный метод: updateUser
+дек. 14, 2024 3:51:57 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Класс: class ru.gb.hw8.service.UserServiceImpl
+дек. 14, 2024 3:51:57 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Аргументы: [User(id=3, name=Egor, age=22, email=egir@mail.com)]
+дек. 14, 2024 3:51:57 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Метод отработал и вернул значение: User(id=3, name=Egor, age=22, email=egir@mail.com)
+дек. 14, 2024 3:51:57 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Конец блока логирования.
+дек. 14, 2024 3:52:02 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Информация логирования: 
+дек. 14, 2024 3:52:02 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Вызванный метод: updateUser
+дек. 14, 2024 3:52:02 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Класс: class ru.gb.hw8.service.UserServiceImpl
+дек. 14, 2024 3:52:02 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Аргументы: [User(id=3, name=Egor, age=22, email=egor@mail.com)]
+дек. 14, 2024 3:52:02 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Метод отработал и вернул значение: User(id=3, name=Egor, age=22, email=egor@mail.com)
+дек. 14, 2024 3:52:02 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Конец блока логирования.
+дек. 14, 2024 3:52:07 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Информация логирования: 
+дек. 14, 2024 3:52:07 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Вызванный метод: getAllUsers
+дек. 14, 2024 3:52:07 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Класс: class ru.gb.hw8.service.UserServiceImpl
+дек. 14, 2024 3:52:07 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Аргументы: []
+дек. 14, 2024 3:52:07 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Метод отработал и вернул значение: [User(id=1, name=Jack, age=19, email=jack@mail.com), User(id=2, name=Irina, age=24, email=irina@mail.com), User(id=3, name=Egor, age=22, email=egor@mail.com)]
+дек. 14, 2024 3:52:07 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Конец блока логирования.
+дек. 14, 2024 3:52:34 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Информация логирования: 
+дек. 14, 2024 3:52:34 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Вызванный метод: deleteUser
+дек. 14, 2024 3:52:34 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Класс: class ru.gb.hw8.service.UserServiceImpl
+дек. 14, 2024 3:52:34 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Аргументы: [2]
+дек. 14, 2024 3:52:34 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Метод отработал и вернул значение: null
+дек. 14, 2024 3:52:34 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Конец блока логирования.
+дек. 14, 2024 3:52:40 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Информация логирования: 
+дек. 14, 2024 3:52:40 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Вызванный метод: getAllUsers
+дек. 14, 2024 3:52:40 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Класс: class ru.gb.hw8.service.UserServiceImpl
+дек. 14, 2024 3:52:40 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Аргументы: []
+дек. 14, 2024 3:52:40 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Метод отработал и вернул значение: [User(id=1, name=Jack, age=19, email=jack@mail.com), User(id=3, name=Egor, age=22, email=egor@mail.com)]
+дек. 14, 2024 3:52:40 PM ru.gb.hw8.aspects.MyLoggingAspect log
+INFO: Конец блока логирования.
